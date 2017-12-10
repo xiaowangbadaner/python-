@@ -1,9 +1,9 @@
 # #coding=utf-8
- import re
- import urllib
+import re
+import urllib
  
  
- for j in range(22):
+for j in range(22):
      if j==0:
          print('开始爬取图片..')
          url='http://www.woyaogexing.com/touxiang/z/ktkeai/index.html'
